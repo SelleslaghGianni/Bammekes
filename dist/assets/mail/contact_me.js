@@ -57,7 +57,7 @@ $(function () {
                         $("<strong>").text(
                             "Sorry " +
                                 firstName +
-                                ", it seems that my mail server is not responding. Please try again later!"
+                                ", het lijkt erop dat het niet is gelukt. Probeer het later nog eens of bel ons op 03/344 30 80."
                         )
                     );
                     $("#success > .alert-danger").append("</div>");
